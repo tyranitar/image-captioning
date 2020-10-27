@@ -2,7 +2,7 @@
 
 CNN-RNN hybrid model for generating captions for images. Part of the coursework for Udacity's Computer Vision Nanodegree.
 
-Some successful results:
+### Some successful results:
 
 ![Prediction 0](images/prediction_0.png)
 
@@ -16,7 +16,7 @@ Some successful results:
 
 `a baseball player swinging a bat at a ball in a game .`
 
-An unsuccessful result that hints at overfitting:
+### An unsuccessful result that hints at overfitting:
 
 ![Prediction 3](images/prediction_3.png)
 
